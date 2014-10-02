@@ -20,6 +20,7 @@ categories: jekyll
 
 3. Jekyll - 루비 설치 후 아래와 같이 설치한다.
 `sudo gem update --system`
+
 `sudo gem install jekyll`
 
 Jekyll 설치가 끝나면 Scaffold 할 수 있다. 
@@ -30,8 +31,12 @@ Jekyll 설치가 끝나면 Scaffold 할 수 있다.
 code highlighter 기능도 제공해서 코드를 보여줄 때도 보기 쉽게 포스팅 할 수 있다. 
 
 자세한 내용은 아래 참고 사이트에서 확인가능.
-[jekyllrb.com][http://jekyllrb.com/docs/home/]
-[github help][https://help.github.com/articles/using-jekyll-with-pages]
 
+[jekyllrb.com][jekyllrb]
+
+[github help][github-help]
+
+[jekyllrb]: http://jekyllrb.com/docs/home/
+[github-help]: https://help.github.com/articles/using-jekyll-with-pages
 [rbenv-install]: http://goo.gl/lsp12U
 [github-page]: https://pages.github.com/
